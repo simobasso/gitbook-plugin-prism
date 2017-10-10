@@ -11,7 +11,8 @@ function requireSyntax(lang) {
   'css',
   'python',
   'bash',
-  'powershell'
+  'powershell',
+  'git'
 ].map(requireSyntax);
 
 module.exports = {
